@@ -6,7 +6,7 @@
 !author: Leonardo Brito
 !Physics Phd Student
 !Institute of Physics (IFUSP)
-!University of SÆo Paulo (USP)
+!University of SÃ†o Paulo (USP)
 !_________________________________________
 program code2
 implicit none
@@ -40,8 +40,6 @@ write(*,*)'x0: ',x0
 write(*,*)'y0: ',y0
 write(*,*)'v0 = func4(x0,y0): ',v0
 
-
-pause
 
 
 end program code2
