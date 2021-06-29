@@ -7,7 +7,7 @@
 !author: Leonardo Brito
 !Physics Phd Student
 !Institute of Physics (IFUSP)
-!University of SÆo Paulo (USP)
+!University of SÃ†o Paulo (USP)
 !_________________________________________
 program code1
 implicit none
@@ -294,9 +294,7 @@ write(*,*)A5(2,1),A5(2,2)
 write(*,*) !add a white line
 
 
-
-pause
-!pause (use this comand at the last code line if your compiler does not keep your terminal open, this is required on 'windows')
+!pause !(use this comand at the last code line if your compiler does not keep your terminal open, this is required on 'windows')
 
 
 end program code1
