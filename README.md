@@ -34,7 +34,7 @@ Here we present some codes to learn the structure and first useful commands in F
     </tr> 
     <tr>
       <td>code5_write-read_files.f90</td>
-      <td>We show how to write and to read data in 'txt', '.fort' extensions and even from the 'terminal'</td>     
+      <td>We show how to write and to read data in 'txt', '.fort' extensions and even at the 'terminal'</td>     
     </tr> 
     <tr>
       <td>code6_modules.f90</td>
